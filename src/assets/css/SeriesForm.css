@@ -1,0 +1,29 @@
+.series-form {
+    text-align: left;
+    padding: 20px 0 20px 0;
+}
+
+.series-id {
+    position: relative;
+    top: 5px;
+}
+
+.input-box {
+    margin-right: 10px;
+    width: 90px;
+}
+
+.button {
+    background-color: #338a59;
+    border: none;
+    color: white;
+    padding: 7px 35px;
+    cursor: pointer;
+    position: relative;
+    bottom: 3px;
+}
+
+.error {
+    font-size: 10px;
+    color: red;
+}

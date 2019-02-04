@@ -1,0 +1,41 @@
+ol {
+    list-style-type: none;
+}
+
+.series-image {
+    max-width: 1070px;
+}
+
+.series-title {
+    position: relative;
+    top: 50%;
+    font-weight: bold;
+}
+
+.series-title-ep-container {
+    height: 100%;
+}
+
+.series-title-container {
+    display: inline-block;
+    width: 60%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.series-episode-container {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    font-size: 12px;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.episodes-header {
+    font-weight: bold;
+}
+
+.bottom-padding {
+    padding-bottom: 20px;
+}
